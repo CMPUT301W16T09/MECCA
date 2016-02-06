@@ -1,0 +1,11 @@
+Release Panning
+
+Plan the major use cases and user stories that need to be done for project part 4, and what will be deferred until later for project part 5. This plan will likely evolve and should be maintained up-to-date in your team wiki. This will be used to help track progress on completing the requirements.
+
+Project Part 4: Use cases and User Stories
+
+
+
+Project Part 5: Use cases and User Stories
+
+
