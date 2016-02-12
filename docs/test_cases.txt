@@ -723,7 +723,6 @@ public class ArtListTest extends ActivityInstrumentationTestCase2 {
         assertEquals(Borrower.getItemsList().getSize(), 0);
     }
   
-}
 
     // US 08.01.01
     // As an owner, I want to define new things while offline, and push the additions once I get connectivity.
@@ -753,4 +752,4 @@ public class ArtListTest extends ActivityInstrumentationTestCase2 {
         assertTrue(myArt.getSize(), 1);
     }
 
-
+}
